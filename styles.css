@@ -1,0 +1,48 @@
+body{
+ background-color:  #159895;
+ text-align: center;
+}
+
+
+   img{
+  
+    width: 20%;
+    height:20%;
+  }
+
+  
+
+   /* class */
+
+.img1{
+  
+  width: 20%;
+  height:20%;
+}
+
+.huge1{
+  color: aqua;
+}
+
+.play1{position: relative; left: 400px;
+  height: fit-content;
+  
+  
+}
+
+.play2{
+  position: relative; right: 600px;
+          bottom: 380px;
+  
+  height: fit-content;
+  
+  
+}
+
+.paar{ margin-top: 10%;
+  font-size: larger;
+  font-style: oblique;
+
+}
+
+
